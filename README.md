@@ -1,0 +1,1 @@
+# kali-linux-static-ip-configuration
