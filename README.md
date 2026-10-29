@@ -57,11 +57,7 @@ These commands deactivate and reactivate the configured connection.
 - Static IP addressing and subnetting.
 - Linux network interfaces and routing.
 - VirtualBox NAT Network configuration.
-- Basic network troubleshooting.
-
-## Evidence
-
-See the `kali-network-configuration.png` screenshot in this repository for the terminal output showing the verified IP configuration and routing table.
+- Basic network troubleshooting
 
 ## Purpose
 
