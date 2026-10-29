@@ -62,3 +62,7 @@ These commands deactivate and reactivate the configured connection.
 ## Purpose
 
 This project was completed as part of my personal cybersecurity learning journey.
+
+---
+
+![Kali Linux Network Configuration](Screenshot_2026-10-28_17_15_03.png)
